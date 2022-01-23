@@ -17,7 +17,7 @@ Project works with conjunction with respective [client](https://github.com/PrivP
 - Clone or download the repository
 - Build the project
 
-This will create a `\target` directory with `./jar` file inside
+This will create a `\target` directory with `.jar` file inside
 
 ### Database schema
 #### Levels
